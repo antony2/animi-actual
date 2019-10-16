@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  align-self: auto;
+  align-items: center;
+  margin-top: -150px;
+  margin-bottom: -150px;
+}
+
+.left1 {
+  position: relative;
+  left: -50px;
+  bottom: 180px;
+}
+
+.left2 {
+  position: relative;
+  left: -110px;
+  bottom: 150px;
+}
+
+.left3 {
+  position: relative;
+  left: -40px;
+  top: -130px;
+}
+.centerleft {
+  position: relative;
+  top: 260px;
+  left: 280px;
+}
+.centerright {
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+}
+
+.rightlines {
+  position: relative;
+  right: 32px;
+}
+.right1 {
+  position: relative;
+  top: 50px;
+  right: 130px;
+}
+.right2 {
+  position: relative;
+  top: 20px;
+  right: 50px;
+}
+.right3 {
+  position: relative;
+  top: 0px;
+  right: 110px;
+}
+.right4 {
+  position: relative;
+  bottom: 20px;
+  right: 50px;
+}
+.right5 {
+  position: relative;
+  bottom: 50px;
+  right: 140px;
+}
+
+.icon1 {
+  position: relative;
+  left: -320px;
+  bottom: 150px;
+}
+.icon2 {
+  position: relative;
+  left: -350px;
+  bottom: 60px;
+}
+.icon3 {
+  position: relative;
+  left: -300px;
+  bottom: 60px;
+}
+.icon4 {
+  position: relative;
+  left: -310px;
+  bottom: 150px;
+}
