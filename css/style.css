@@ -5,85 +5,86 @@
   justify-content: center;
   align-self: auto;
   align-items: center;
-  margin-top: -150px;
-  margin-bottom: -150px;
+  margin-top: -100px;
+  margin-bottom: -100px;
+  margin-left: -200px;
 }
 
 .left1 {
   position: relative;
-  left: -50px;
-  bottom: 180px;
+  left: 70px;
+  bottom: 110px;
 }
 
 .left2 {
   position: relative;
-  left: -110px;
-  bottom: 150px;
+  left: 28px;
+  bottom: 100px;
 }
 
 .left3 {
   position: relative;
-  left: -40px;
-  top: -130px;
+  left: 70px;
+  bottom: 95px;
 }
 .centerleft {
   position: relative;
-  top: 260px;
-  left: 280px;
+  top: 155px;
+  left: 275px;
 }
 .centerright {
   position: relative;
   bottom: 20px;
-  right: 10px;
+  right: -70px;
 }
 
 .rightlines {
   position: relative;
-  right: 32px;
+  left: 54px;
 }
 .right1 {
   position: relative;
-  top: 50px;
-  right: 130px;
+  top: 40px;
+  right: 20px;
 }
 .right2 {
   position: relative;
-  top: 20px;
-  right: 50px;
+  top: 15px;
+  left: 30px;
 }
 .right3 {
   position: relative;
   top: 0px;
-  right: 110px;
+  right: 15px;
 }
 .right4 {
   position: relative;
   bottom: 20px;
-  right: 50px;
+  left: 30px;
 }
 .right5 {
   position: relative;
-  bottom: 50px;
-  right: 140px;
+  bottom: 40px;
+  right: 30px;
 }
 
 .icon1 {
   position: relative;
-  left: -320px;
-  bottom: 150px;
+  left: -185px;
+  bottom: 80px;
 }
 .icon2 {
   position: relative;
-  left: -350px;
-  bottom: 60px;
+  left: -210px;
+  bottom: 20px;
 }
 .icon3 {
   position: relative;
-  left: -300px;
-  bottom: 60px;
+  left: -190px;
+  bottom: 20px;
 }
 .icon4 {
   position: relative;
-  left: -310px;
-  bottom: 150px;
+  left: -215px;
+  bottom: 80px;
 }
